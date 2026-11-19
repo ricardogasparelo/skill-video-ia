@@ -25,7 +25,7 @@ ideia → ENTREVISTA → ROTEIRO (aprovado) → plano visual → autor GRAVA o �
 
 | | |
 |---|---|
-| **47 tipos de bloco** | títulos cinéticos, palavra de impacto, riscado, contador, barra de progresso, gráficos, linha do tempo, citação, mocks de chat/terminal/celular, diagramas, personagem, CTA de comentário |
+| **49 tipos de bloco** | títulos cinéticos, palavra de impacto, riscado, contador, barra de progresso, gráficos, linha do tempo, citação, mocks de chat/terminal/celular, diagramas, personagem, CTA de comentário |
 | **19 temas visuais** | incluindo o tema da marca Papo de Fundador |
 | **Plano em um arquivo** | `plano.json` com as falas e, em cada cena, os blocos ancorados na palavra falada em que aparecem |
 | **Narração encaixada** | corta hesitações e tomadas repetidas da gravação e sincroniza cada cena com a voz |
